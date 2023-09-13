@@ -13,6 +13,7 @@
 {"key":"量子","name":"量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻","预告片"]},
 {"key":"MX","name":"MX","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
 {"key":"磁力","name":"磁力","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"磁力2","name":"磁力2","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e18f0174b2440d2b8386f94ebfde088","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "wogg","name": "猫丨玩偶","type": 3,"api": "./js/wogg_open.js","ext": "6de1a1be18fe4aa288aa14300027576a"},
 {"key": "ikanbot","name": "猫丨爱看","type": 3,"api": "./js/ikanbot2_open.js"},
 {"key":"ytvip","name":"猫丨影探","type":3,"api":"./js/yt_open.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},  
