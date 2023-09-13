@@ -1,8 +1,5 @@
 ﻿{"urls": [
-{"name":"行人云影视仓本地","url":"clan://localhost/A-main/E"},
-{"name":"探行云影视本地线","url":"clan://localhost/A-main/Q"},
-{"name":"行人云影视仓","url":"https://ghproxy.com/raw.githubusercontent.com/manmandebaba/A/main/E"},
-{"name":"探行云影视","url":"https://ghproxy.com/raw.githubusercontent.com/manmandebaba/A/main/Q"},
+{"name":"探行云影视","url":"https://ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/S"},
 
 {"name":"肥猫","url":"http://我不是.肥猫.love:63"},
 {"name":"肥猫2","url":"http://肥猫.love"},
