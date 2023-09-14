@@ -2,7 +2,6 @@
 "spider":"./A",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"影視","name":"影視","type":3,"api":"csp_YingShi","searchable":1,"changeable":1,"jar":"./SS"},
 {"key":"腾讯","name":"腾讯","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
 {"key":"爱奇艺","name":"爱奇艺","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":"","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
 {"key":"360","name":"360","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"json:https://dx.maclsj.com/blue/json.php?url=","categories":["动漫","电视剧","电影","综艺"]},
@@ -19,7 +18,7 @@
 {"key":"Up搜","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
 {"key":"盘索","name":"盘索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"jar":"./SS"},
+{"key":"纸条","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"./Z+4k|auto|fhd","jar":"./SS"},
 {"key":"推送","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./Z+4k|auto|fhd"}
 ],
 
