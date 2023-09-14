@@ -15,6 +15,7 @@
 {"key":"MX","name":"MX","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
 {"key":"磁力","name":"磁力","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"磁力2","name":"磁力2","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e18f0174b2440d2b8386f94ebfde088","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_WoGG","name":"玩偶影视4K","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec7dca41cd851d6b91c85135fec2e6b5","ext":{"token":"CandyMuj","filter":"https://tv.lan2wan.top/conf/wogg.json"}},
 {"key": "wogg","name": "猫丨玩偶","type": 3,"api": "./js/wogg_open.js","ext": "6de1a1be18fe4aa288aa14300027576a"},
 {"key": "ikanbot","name": "猫丨爱看","type": 3,"api": "./js/ikanbot2_open.js"},
 {"key":"ytvip","name":"猫丨影探","type":3,"api":"./js/yt_open.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},  
