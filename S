@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./A",
+"spider":"./SS",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"腾讯","name":"腾讯","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
