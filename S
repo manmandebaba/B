@@ -18,7 +18,6 @@
 {"key":"Up搜","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
 {"key":"盘索","name":"盘索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"./Z+4k|auto|fhd","jar":"./SS"},
 {"key":"推送","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./Z+4k|auto|fhd"}
 ],
 
