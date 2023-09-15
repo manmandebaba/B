@@ -84,6 +84,7 @@
 ],
 
 "beiyongjiexi": [
+{"name":"备解","url":"https://www.movparse.com/?url="},
 {"name":"备解1","url":"https://vip.lianfaka.com/vip/?url="}, 
 {"name":"备解2", "url": "https://jx.xmflv.com/?url="},
 {"name":"备解3","url":"https://www.8090g.cn/?url="},
@@ -95,6 +96,7 @@
 {"name":"备解9","url":"https://jx.ppjbk.cn/?url="},
 {"name":"备解10","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"备解11","url":"https://www.yemu.xyz/?url="},
+{"name":"6-CK","url":"https://www.ckmov.com/?url="},
 {"name":"备解","url":"https://www.nxflv.com/?url="}
 ],
 "dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
