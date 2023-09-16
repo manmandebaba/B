@@ -64,22 +64,7 @@
 {"name":"jsonp","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"三七","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"思古","type":0,"url":"https://siguyy.cc/player/analysis.php?v="},
-{"name":"A8","type":0,"url":"https://p8.a8ys.xyz/player/lgec.php?code=a8ys&from=a8all&key=TYYXG98&pid=239412&psid=7&pnid=1&url="},
-{"name":"JHHD","type":1,"url":"http://61.136.164.247:8090/index.php?url=","ext":{"flag":["JHHD"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"玉米1","type":1,"url":"https://jxjson.cf/json.php?url=","ext":{"flag":["YuMi","YuMi-vip"]}},
-{"name":"玉米2","type":1,"url":"http://61.147.93.21:8090/index.php?url=","ext":{"flag":["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"玉米3","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
-{"name":"玉米4","type":1,"url":"http://119.91.31.224:81/txjx.php?url="},
-{"name":"大行","type":1,"url":"https://dx.maclsj.com/blue/json.php?url="},
-{"name":"飞云","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100"}}},
-{"name":"飞云2","type":1,"url":"https://daina.hk/api/?key=507ebdc402a6314e35f950c4c40fdf27&url="},
-{"name":"奇奇","type":1,"url":"http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=","ext":{"flag":["FY","Feiyun","FYNB"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
-{"name":"奇奇2","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url=","ext":{"flag":["qiqi","kuying-qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"蚂蚁","type":1,"url":"http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext":{"flag":["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"VIP1","type":1,"url":"https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=","ext":{"flag":["JHA","JHB","mmal"]}},
-{"name":"hqq","type":"1","url":"https://jx.hqqys.com/cache.php?url="},
-{"name":"毛驴","type":"1","url":"https://www.maolvys.com/player/?url="},
+
 {"name":"腾直","type":1,"url":"http://api.playaaaa.com/qq/0001668kkkkk.php?url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}}
 ],
 "lives" : [ {
