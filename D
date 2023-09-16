@@ -1,6 +1,7 @@
 ﻿{"urls": [
 {"name":"行人云影视仓","url":"https://ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/S"},
 
+{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"肥猫","url":"http://我不是.肥猫.love:63"},
 {"name":"肥猫2","url":"http://肥猫.love"},
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
@@ -14,6 +15,9 @@
 {"name":"影迷","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
 {"name":"运输车","url":"https://weixine.net/ysc.json"},
 {"name":"星辰","url":"http://8.210.232.168/xc.json"},
+{"name":"小可太乐","url": "https://download.kstore.space/download/4927/Axkl/xklsip.json"},
+{"name":"BaiPiao","url":"https://cloud.lxweb.cn/f/Px9cb/BaiPiao-MianFei.json"},
+{"name":"xiaobaiqun","url":"https://cloud.lxweb.cn/f/PAYhb/xiaobaiqun.json"},
 {"name":"大眼仔","url":"https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"小鱼之家","url":"http://t.84jia.com/tvbox/tvbox.json"},
 {"name":"夕✿晨","url":"http://calendre.top/TVBox/YXHC.json"},
@@ -52,7 +56,10 @@
 {"name":"田什么","url":"https://framagit.org/tiantuhao/honor/-/raw/master/tian.json"},
 {"name":"田什么2","url":"https://tiantuhao.github.io/tvinterface/github.json"},
 {"name":"田什么3","url":"https://qu.ax/ZDUu.json"},
+
 {"name":"V什么","url":"https://agit.ai/ccy/v/raw/branch/master/v"},
+
+
 {"name":"香雅情","url":"https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json"},
 {"name":"蜂蜜","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"蜂蜜eu","url":"http://蜂蜜.eu.org"},
@@ -64,9 +71,6 @@
 {"name":"小雅1","url":"http://101.34.67.237/config/1"},
 {"name":"小雅2","url":"http://101.34.67.237/config/2"},
 {"name":"小雅3","url":"http://101.34.67.237/config/3"},
-{"name":"candymuj","url":"https://tv.lan2wan.top/candymuj.json"},
-
-//{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 
 {"name":"线","url":""}
 ]}
