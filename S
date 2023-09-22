@@ -3,7 +3,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"腾讯","name":"腾讯","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"爱奇艺","name":"爱奇艺","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":"","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
+{"key":"爱奇艺","name":"爱奇艺","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":" json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
 {"key":"360","name":"360","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"json:https://dx.maclsj.com/blue/json.php?url=","categories":["动漫","电视剧","电影","综艺"]},
 {"key":"搜狐","name":"搜狐","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","categories":["动漫","电视剧","电影","美剧","音乐","纪录片"]},
 {"key":"视频","name":"视频","type":1,"playerType":2,"api":"http://tvbox.top/qq.php","playUrl":"","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
