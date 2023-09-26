@@ -2,12 +2,8 @@
 //"spider":"./A",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"腾讯","name":"腾讯","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"爱奇艺","name":"爱奇艺","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":"","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"360","name":"360","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"","categories":["动漫","电视剧","电影","综艺"]},
-{"key":"搜狐","name":"搜狐","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"","categories":["动漫","电视剧","电影","美剧","音乐","纪录片"]},
+{"key":"影视","name":"影视","type":1,"api":"http://154.12.90.7:90/uploads/itvbox/qq.php","searchable":1,"quickSearch":1,"categories":["少儿","电视剧","电影","动漫","综艺","纪录片","知识"]},
 {"key":"视频","name":"视频","type":1,"playerType":2,"api":"http://tvbox.top/qq.php","playUrl":"","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"影视","name":"影视","type":1,"api":"http://154.12.90.7:90/uploads/itvbox/qq.php","searchable":1,"quickSearch":1},
 {"key":"影院","name":"影院","type":1,"playerType":2,"api":"http://tvbox.top/360.php","playUrl":"","categories":["动漫","电视剧","电影","综艺"]},
 
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
@@ -33,7 +29,9 @@
 {"key":"闪电","name":"闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","悬疑片","剧情片","战争片","纪录片","动画电影","国产剧","欧美剧","犯罪片","港剧","韩剧","泰剧","台剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"ikun","name":"ikun","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"playUrl":"https://www.ikdmjx.com/?url=","quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","犯罪片","惊悚片","古装片","灾难片","历史片","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"享看","name":"享看","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"}
+{"key":"享看","name":"享看","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
+
+{"key":"看","name":"看","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":""}
 
 ],
 
