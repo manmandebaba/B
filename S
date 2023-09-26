@@ -1,8 +1,7 @@
 ﻿{
-"spider":"./A",
+//"spider":"./A",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key": "PT","name": "葡萄剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"量子","name":"量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻","预告片"]},
@@ -27,15 +26,8 @@
 {"key":"闪电","name":"闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","悬疑片","剧情片","战争片","纪录片","动画电影","国产剧","欧美剧","犯罪片","港剧","韩剧","泰剧","台剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"ikun","name":"ikun","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"playUrl":"https://www.ikdmjx.com/?url=","quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","犯罪片","惊悚片","古装片","灾难片","历史片","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"享看","name":"享看","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"资源","name":"资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd$$$fanfan$$$qqq111"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"Up搜","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"盘索","name":"盘索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./Z+4k|auto|fhd"},
-{"key":"推送","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./Z+4k|auto|fhd"}
+{"key":"享看","name":"享看","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"}
+
 ],
 
 "parses":[
