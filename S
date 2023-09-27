@@ -2,14 +2,10 @@
 //"spider":"./A",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"少儿","name":"少儿","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"亲子","name":"亲子","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
-{"key":"动漫","name":"动漫","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","categories":["动漫","电视剧","电影","综艺"]},
-{"key":"纪录","name":"纪录","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","categories":["动漫","电视剧","电影","美剧","音乐","纪录片"]},
-//{"key":"少儿","name":"少儿","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
-//{"key":"亲子","name":"亲子","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":" json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
-//{"key":"动漫","name":"动漫","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"json:https://dx.maclsj.com/blue/json.php?url=","categories":["动漫","电视剧","电影","综艺"]},
-//{"key":"纪录","name":"纪录","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","categories":["动漫","电视剧","电影","美剧","音乐","纪录片"]},
+{"key":"少儿","name":"少儿","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:https://dx.maclsj.com/blue/json.php?url=","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
+{"key":"亲子","name":"亲子","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":" json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","categories":["儿童","电视剧","电影","动漫","综艺","纪录片"]},
+{"key":"动漫","name":"动漫","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","playUrl":"json:https://dx.maclsj.com/blue/json.php?url=","categories":["动漫","电视剧","电影","综艺"]},
+{"key":"纪录","name":"纪录","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","categories":["动漫","电视剧","电影","美剧","音乐","纪录片"]},
 
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"量子","name":"量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻","预告片"]},
