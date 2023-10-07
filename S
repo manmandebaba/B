@@ -5,6 +5,10 @@
 {"key":"少儿","name":"少儿","type":1,"api":"http://154.12.90.7:90/uploads/itvbox/qq.php","searchable":1,"quickSearch":1,"categories":["少儿","电视剧","电影","动漫","综艺","纪录片","知识"]},
 {"key":"动画","name":"动画","type":1,"playerType":2,"api":"http://tvbox.top/qq.php","playUrl":"","categories":["少儿","电视剧","电影","动漫","综艺","纪录片"]},
 {"key":"动漫","name":"动漫","type":1,"playerType":2,"api":"http://tvbox.top/360.php","playUrl":"","categories":["动漫","电视剧","电影","综艺"]},
+{"key":"儿童","name":"儿童","type":1,"playerType":2,"api":"http://119.91.31.224:89/itvbox/qq.php","searchable":1,"quickSearch":1},
+{"key":"秋秋","name":"秋秋","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
+{"key":"艺艺","name":"艺艺","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl":""},
+{"key":"搜搜","name":"搜搜","type":1,"playerType":2,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":" json:http://jx.realdou.cn/api/?cat_ext=ImZsYWciOiBbInFxIiwgIuiFvuiuryIsICJxaXlpIiwgIueIseWlh-iJuiIsICLlpYfoiboiLCAieW91a3UiLCAi5LyY6YW3IiwgIm1ndHYiLCAi6IqS5p6cIiwgImxldHYiLCAi5LmQ6KeGIiwgInBwdHYiLCAiUFBUViIsICJpbWdvIiwic29odSIsICJiaWxpYmlsaSIsICLpnZ7lh6EiLCAi5ZOU5ZOpIl0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuMS4wIn19fQ==&key=j4vwSEv2iAE54EWTbM&url="},
 
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"量子","name":"量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻","预告片"]},
