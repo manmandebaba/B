@@ -2,14 +2,7 @@
 //"spider":"./A",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{
-      "key": "csp_秋秋",
-      "name": "✨秋秋┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-      "playUrl": ""
-    },
+{"key":"嘿嘿","name":"🌑嘿嘿专列","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":2,"filterable":0,"ext":"ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30=","jar":"https://jihulab.com/0004/0/-/raw/main/6.txt"},
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"量子","name":"量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻","预告片"]},
 {"key":"秒看","name":"秒看","type":1,"api":"https://www.xy1080.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","电视剧","电影","动漫"]},
