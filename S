@@ -2,6 +2,17 @@
 "spider":"./fan.txt",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
+{
+			"key": "世界",
+			"name": "🌐世界┃聚合",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
+			"ext": "http://103.197.25.136:3836/api.php/app/"
+		},
 {"key":"csp_woggcli","name":"玩偶┃T4T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./token.txt+4k|auto|fhd$$$弹"},
 {"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"http://rihou.vip:88/hccx/央视大全.json"},
@@ -48,6 +59,18 @@
 "parses":[
 {"name": "🐉️嗅探0","type": 3,"url": "Web"},
 {"name":"🐉并发2","type":2,"url":"Parallel"},
+{
+			"name": "比u比u🥭",
+			"type": 1,
+			"url": "https://jxjson.cf/json.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"mgtv",
+					"YuMi-vip"
+				]
+			}
+		},
 {"name": "🐉欧歌api","type": 0,"url": "http://tv.nxog.eu.org/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌tv","type": 0,"url": "http://tv.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌m","type": 0,"url": "http://m.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
