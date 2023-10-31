@@ -13,6 +13,12 @@
 			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
 			"ext": "http://103.197.25.136:3836/api.php/app/"
 		},
+{"key":"短剧网","name":"短剧网","type":3,"api":"http://alist.xn--z7x900a.love:63/ddrpy2.m.js","ext":"http://alist.xn--z7x900a.love:63/短剧网.js","gridview":"0-0-H","style":{"type":"rect","ratio":1.68}},
+{"key":"葡萄","name":"葡萄短剧","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
+{"key":"嗷嗷","name":"嗷嗷短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
+{"key":"迷迷短剧","name":"迷迷短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20"}},
+{"key":"VS短剧","name":"VS短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
+
 {"key":"csp_woggcli","name":"玩偶┃T4T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./token.txt+4k|auto|fhd$$$弹"},
 {"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"http://rihou.vip:88/hccx/央视大全.json"},
