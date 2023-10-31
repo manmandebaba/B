@@ -13,6 +13,16 @@
 			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
 			"ext": "http://103.197.25.136:3836/api.php/app/"
 		},
+{
+			"key": "玉米",
+			"name": "🌽玉米┃采集",
+			"type": 0,
+			"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+			"playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 {"key":"短剧网","name":"短剧网","type":3,"api":"http://alist.xn--z7x900a.love:63/ddrpy2.m.js","ext":"http://alist.xn--z7x900a.love:63/短剧网.js","gridview":"0-0-H","style":{"type":"rect","ratio":1.68}},
 {"key":"葡萄","name":"葡萄短剧","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 {"key":"嗷嗷","name":"嗷嗷短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
