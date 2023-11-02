@@ -23,6 +23,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+{"key":"梦梦","name":"梦梦","type":3,"playerType":2,"api":"csp_AppYsV2","playUrl":"json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=","ext":"http://iosa.xn--654a.cc/api.php/app/"},
+
 {"key":"短剧网","name":"短剧网","type":3,"api":"http://alist.xn--z7x900a.love:63/ddrpy2.m.js","ext":"http://alist.xn--z7x900a.love:63/短剧网.js","gridview":"0-0-H","style":{"type":"rect","ratio":1.68}},
 {"key":"葡萄","name":"葡萄短剧","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 {"key":"嗷嗷","name":"嗷嗷短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
