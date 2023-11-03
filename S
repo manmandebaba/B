@@ -1,7 +1,13 @@
 ﻿{
-"spider":"./fan.txt",
+"spider":"./ZZG1103.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
+{"key":"腾讯","name":"腾讯","type":3,"api":"csp_qq","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/QIM.jar","categories":["少儿","电视剧","电影","动漫","综艺","纪录片","知识"]},
+{"key":"奇艺","name":"奇艺","type":3,"api":"csp_iqiyi","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/QIM.jar","categories":["儿童","电视","电影","动漫","综艺","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告","原创","母婴","科技","健康"]},
+{"key":"芒果","name":"芒果","type":3,"api":"csp_mgtv","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/HeChengChaXiu.jar","categories":["少儿","电视剧","电影","动漫","综艺","纪录片","教育"]},
+{"key":"优酷","name":"优酷","type":3,"api":"csp_youku","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/HeChengChaXiu.jar","categories":["少儿","亲子","电视剧","电影","动漫","综艺","纪录片"]},
+{"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","电视剧","电影","综艺"]},
+
 {
 			"key": "世界",
 			"name": "🌐世界┃聚合",
