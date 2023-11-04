@@ -10,7 +10,7 @@
         "filterable": 0,
         "changeable": 0
     }, 
-{"key":"Bilfun","name":"视听☆Bilfun","type":1,"api":"https://cdk.centos.chat/api.php/provide/vod","playUrl":"https://jx.centos.chat/?url=","playUrl":"https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["柒之社(蓝光专区)","电影","连续剧","综艺","动漫","体育赛事","纪录片","电影解说","短剧","预告片"]},
+{"key":"Bilfun","name":"视听☆Bilfun","type":1,"api":"https://cdk.centos.chat/api.php/provide/vod","playUrl":"https://jx.centos.chat/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["柒之社(蓝光专区)","电影","连续剧","综艺","动漫","体育赛事","纪录片","电影解说","短剧","预告片"]},
 {
         "key": "maolv",
         "name": "影视|毛驴",
