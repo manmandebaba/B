@@ -1,0 +1,92 @@
+{
+    "spider": "https://api.zalman2022.repl.co/YSZYZ.jar",
+    "lives": [],
+    "sites": [{
+        "key": "douban",
+        "name": "资源站",
+        "type": 3,
+        "api": "csp_DouBan",
+        "quickSearch": 1,
+        "filterable": 0,
+        "changeable": 0
+    }, 
+{"key":"Bilfun","name":"视听☆Bilfun","type":1,"api":"https://cdk.centos.chat/api.php/provide/vod","playUrl":"https://jx.centos.chat/?url=","playUrl":"https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["柒之社(蓝光专区)","电影","连续剧","综艺","动漫","体育赛事","纪录片","电影解说","短剧","预告片"]},
+{
+        "key": "maolv",
+        "name": "影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "jojo",
+        "name": "影视|JOJO",
+        "type": 3,
+        "api": "csp_JoJo",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "yqkan",
+        "name": "影视|一起看",
+        "type": 3,
+        "api": "csp_YQKan",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "t4_wogg",
+        "name": "影视|玩偶",
+        "type": 4,
+        "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, {
+        "key": "xifan",
+        "name": "动漫|稀饭",
+        "type": 3,
+        "api": "csp_Xifan",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "putao",
+        "name": "短剧|葡萄",
+        "type": 3,
+        "api": "csp_WebPuTao",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "bili",
+        "name": "娱乐|B站",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0,
+        "ext": "https://api.zalman2022.repl.co/bili.json"
+    }],
+    "parses": [],
+    "flags": [],
+    "rules": [{
+        "name": "LZ",
+        "hosts": ["vip.lz", "hd.lz"],
+        "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+    }, {
+        "name": "FF",
+        "hosts": ["vip.ffzy", "hd.ffzy"],
+        "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+    }, {
+        "name": "YQK",
+        "hosts": ["yqk88"],
+        "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]
+    }]
+}
