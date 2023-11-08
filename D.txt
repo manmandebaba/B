@@ -1,5 +1,5 @@
 ﻿{"urls": [
-{"name":"行人网络","Url":"https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S"},
+{"name":"行人网络","url":"https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S"},
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"肥猫","url":"http://肥猫.love"},
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
