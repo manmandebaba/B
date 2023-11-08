@@ -1,4 +1,6 @@
 ﻿{"urls": [
+{"sourceName":"行人网络","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/S"},
+
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"肥猫","url":"http://肥猫.love"},
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
