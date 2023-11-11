@@ -79,7 +79,7 @@
 {"name":"乐享汇fans","url":"https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt"},
 {"name":"整挺好啊","url":"https://gh-proxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/djk1.json"},
 {"name":"大眼仔","url":"https://gh-proxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
-{"name":"码上放生领先","url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json"},
+{"name":"码上放生领先","url":"https://ghps.cc/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json"},
 {"name":"霜辉月明py","url":"https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
 {"name":"潇洒","url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 {"name":"潇洒去广","url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"},
