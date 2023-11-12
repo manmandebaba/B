@@ -1,27 +1,12 @@
 {
 	"sites": [
-{
-      "key": "csp_揪揪",
-      "name": "✨揪揪┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox.top/qq.php",
-      "playUrl": ""
-    },
-    {
-      "key": "csp_简影",
-      "name": "✨简简┃影视┃测试",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/from/jiguang"
-    },
-    {
-      "key": "csp_双双",
-      "name": "✨双双┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://cj.md214.cn/api.php/provide/vod/",
-      "playUrl": ""
-    },
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"},
+
 		{
 			"key": "影图影视",
 			"name": "影图影视",
