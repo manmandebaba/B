@@ -663,7 +663,101 @@
          "name": "Json并发",
          "type": 2,
          "url": "Parallel"
-      },
+      },{
+			"name": "左岸",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/bl.php?v="
+		},
+		{
+			"name": "往往",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/ww.php?v="
+		},
+				{
+			"name": "萝莉",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/xtoo.php?v="
+		},
+		{
+			"name": "醉仙",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/ceshi.php?url="
+		},
+		{
+			"name": "好戏",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/hx.php?url="
+		},
+		{
+			"name": "宝片",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/kk.php?url="
+		},
+		{
+			"name": "电影港",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/lianfaka.php?url="
+		},
+		{
+			"name": "4567",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/4567.php?v="
+		},
+		{
+			"name": "解析到非凡量子",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/tofflz.php?url="
+		},
+		{
+			"name": "七七",
+			"type": 1,
+			"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+			"ext": {
+				"flag": [
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"芒果"
+				],
+				"header": {
+					"User-Agent": "okhttp/3.12.0"
+				}
+			}
+		},
+		{
+			"name": "秒解",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx/?url="
+		},
+		{
+			"name": "秒解1",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx2/?url="
+		},
+		{
+			"name": "秒解2",
+			"type": 1,
+			"url": "http://shixiong.alwaysdata.net/jx2/3.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯"
+				]
+			}
+		},
       {
          "name": "小鱼解析",
          "type": 1,
