@@ -1,65 +1,27 @@
 {
 	"sites": [
-		{
-			"key": "drpy_js_奇异",
-			"name": "爱奇艺(官)",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/qzys.js"
-		},
-		{
-			"key": "teng",
-			"name": "腾讯(官)",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/QQ.js"
-		},
-		{
-			"key": "MGT",
-			"name": "芒果(官)",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/Mgtv.js"
-		},
-		{
-			"key": "drpy_js_sogou",
-			"name": "搜狗(官)",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/sogou.js"
-		},
-		{
-			"key": "drpy_js_优酷",
-			"name": "优酷[官]",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/youku.js"
-		},
-		{
-			"key": "csp_SP360",
-			"name": "360影视",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/360.js"
-		},
+{
+      "key": "csp_揪揪",
+      "name": "✨揪揪┃影视┃测试",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox.top/qq.php",
+      "playUrl": ""
+    },
+    {
+      "key": "csp_简影",
+      "name": "✨简简┃影视┃测试",
+      "type": 1,
+      "api": "https://www.xy1080.net/api.php/provide/vod/from/jiguang"
+    },
+    {
+      "key": "csp_双双",
+      "name": "✨双双┃影视┃测试",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://cj.md214.cn/api.php/provide/vod/",
+      "playUrl": ""
+    },
 		{
 			"key": "影图影视",
 			"name": "影图影视",
