@@ -31,6 +31,7 @@
 {"name":"xxxoo","url":"http://xxxoo.shop/"},
 {"name":"运输车","url":"https://weixine.net/ysc.json"},
 {"name":"cally","url":"https://s2.pub/cally"},
+{"name":"🔥火影接口🔥","url":"http://jar.lingutv.cn/tvbox/yw/yw.json"},
 {"name":"🦝壹梦影视🦝","url": "http://qrh.yimkj.cn/ym/壹梦.json"},
 {"name":"🍭环宇轩4k🍭","url":"http://www.891218.xyz/jk/hyxuan2.json"},
 {"name":"🍭环宇轩网络🍭","url":"http://www.891218.xyz/环宇轩网络/"},
