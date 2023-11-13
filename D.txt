@@ -72,6 +72,7 @@
 {"name":"蚂蚁论坛","url":"https://la.kstore.space/download/2883/0110.txt"},
 {"name":"tiantuhao","url":"https://framagit.org/tiantuhao/honor/-/raw/master/tian.json"},
 {"name":"运维世界","url":"https://www.ywsj.cf/upload/2023/10/yyzq4k.json"},
+{"name":"🎈民间大佬","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/waynfifdwj.json"},
 {"name":"熊猫不叫猫","url":"https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"},
 {"name":"熊猫不叫猫2","url":"https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjm.json"},
 {"name":"拾光趣乐屋","url":"https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"},
