@@ -59,6 +59,7 @@
 {"name":"胖鸭","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 {"name":"胖鸭2","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},
 {"name":"ddxmao","url":"https://agit.ai/ddx/nmys/raw/branch/master/feimao.json"},
+{"name":"ddxm","url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json"},
 {"name":"ddxcat","url":"https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"},
 {"name":"kvymin","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},
 {"name":"ccy","url":"https://agit.ai/ccy/v/raw/branch/master/v"},
