@@ -85,6 +85,7 @@
 {"name":"gao0826","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json"},
 {"name":"香雅情","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json"},
 {"name":"蜂蜜","url":"https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json"}, 
+{"name":"fmtv","url":"https://ts--ly23.repl.co/fmtv"},
 {"name":"蜂蜜0","url":"https://xhdwc.tk/0"},
 {"name":"蜂蜜1","url":"https://www.0701.gq/tv"},
 {"name":"蜂蜜2","url":"https://100km.top/0"},
