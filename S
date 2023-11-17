@@ -2,6 +2,8 @@
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
+{"key":"聚搜","name":"聚搜","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"94fd5ab297e24a769bb762375118ec47","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]},"changeable":1},
+
 {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","电视剧","电影","综艺"]},
 {"key":"MV_vod","name":"🎶明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key":"酷奇js","name":"🎤酷奇┃MV","type": 3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
