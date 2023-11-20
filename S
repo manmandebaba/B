@@ -33,6 +33,27 @@
 {"name":"icu","type":1,"url":"https://api.json.icu//api//?key=b965ffb1e2ea03df5b1df52293533ea4&url="},
 {"name":"22222","type":1,"url":"https://110.42.2.98:22222/api/?key=4Rcvl7i2fFP84i0SN9&url="},
 {"name":"2222","type":1,"url":"http://110.42.2.98:2222//api//?key=dXVSZKYgTl96F51xWi&url="},
+    {
+      "name": "TB",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url="
+    },
+    {
+      "name": "TD",
+      "type": 1,
+      "url": "http://61.147.93.21:90/cache.php?url="
+    },
+    {
+      "name": "TC",
+      "type": 1,
+      "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
+    },
+    
+    {
+      "name": "TXX",
+      "type": 1,
+      "url": "http://106.53.99.43:84/bf.php?url="
+    }
 {"name":"yumi-1","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 {"name":"yumi-2","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url="},
 {"name":"yumi-3","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
