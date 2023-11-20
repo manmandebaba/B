@@ -53,7 +53,7 @@
       "name": "TXX",
       "type": 1,
       "url": "http://106.53.99.43:84/bf.php?url="
-    }
+    },
 {"name":"yumi-1","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 {"name":"yumi-2","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url="},
 {"name":"yumi-3","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
