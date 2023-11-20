@@ -1,6 +1,6 @@
 ﻿{"urls": [
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
-{"name":"肥猫","url":"http://肥猫.love"},
+{"name":"肥猫","url":"http://肥猫.live"},
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
 {"name":"菜妮丝","url":"https://tvbox.cainisi.cf"},
 {"name":"多多","url":"http://yydsys.top/duo"},
@@ -24,7 +24,6 @@
 {"name":"锦哥哥","url":"http://jin.锦哥哥.love"},
 {"name":"猫技","url":"https://m.n13.club/"},
 {"name":"shixiong","url":"http://shixiong.alwaysdata.net/m.json"},
-{"name":"集简","url":"http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"},
 {"name":"月光宝盒","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"宝盒","url":"https://agit.ai/guot54/ygbh/raw/branch/master/pro"},
 {"name":"潇洒线路","url":"https://download.kstore.space/download/2863/01.txt"},
@@ -93,6 +92,7 @@
 {"name":"蜂蜜2","url":"https://100km.top/0"},
 {"name":"蜂蜜org","url":"http://yingshi.fongmi.eu.org"},
 {"name":"蜂蜜冷牛哥","url":"https://lengniuge.link/yingshi"},
+{"name":"蜂蜜网友","url":"https://qu.ax/uanw.json"},
 {"name":"徐佬线路","url":"http://xutv.hz.cz/tv/xu106.txt"},
 {"name":"蚂蚁论坛","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
 {"name":"刘公子线路","url":"http://gg.gg/liugongzi"},
