@@ -55,6 +55,7 @@
 {"name":"影音天堂","url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
 {"name":"俊宇","url":"http://home.jundie.top:81/top98.json"},
 {"name":"巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},
+{"name":"胖虎","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json"},
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"胖鸭","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 {"name":"胖鸭2","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},
