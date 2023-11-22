@@ -3,7 +3,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"YGP","name":"荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"聚搜","name":"聚搜","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"94fd5ab297e24a769bb762375118ec47","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]},"changeable":1},
+{"key":"聚搜","name":"聚搜","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"94fd5ab297e24a769bb762375118ec47","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"},{"name":"玉米","api":"http://124.222.116.5/macos/api.php/provide/vod/at/json"}]},"changeable":1},
 {"key":"玩偶","name":"玩偶┃影视","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"360┃影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","电视剧","电影","综艺"]},
 {"key":"一起看","name":"一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
