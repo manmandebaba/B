@@ -37,55 +37,52 @@
 ],
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
-{"name":"思念","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=4361364&key=eghprtvxEJPRUWX039&url="},
-{"name":"十七","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
-{"name":"如戏","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=ilqtBFJKOSUW016789&url="},
-{"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
-{"name":"巧计","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url="},
-{"name":"huihui","type":1,"url":"https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url="},
-{"name":"xingzy","type":1,"url":"http://json.xingzy.top:988//api//?key=5jBsAar4Ju3dKvcNU3&url="},
-{"name":"icu","type":1,"url":"https://api.json.icu//api//?key=b965ffb1e2ea03df5b1df52293533ea4&url="},
-{"name":"22222","type":1,"url":"https://110.42.2.98:22222/api/?key=4Rcvl7i2fFP84i0SN9&url="},
-{"name":"2222","type":1,"url":"http://110.42.2.98:2222//api//?key=dXVSZKYgTl96F51xWi&url="},
-    {
-      "name": "TB",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url="
-    },
-    {
-      "name": "TD",
-      "type": 1,
-      "url": "http://61.147.93.21:90/cache.php?url="
-    },
-    {
-      "name": "TC",
-      "type": 1,
-      "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-    },
-    
-    {
-      "name": "TXX",
-      "type": 1,
-      "url": "http://106.53.99.43:84/bf.php?url="
-    },
-{"name":"yumi-1","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
-{"name":"yumi-2","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url="},
-{"name":"yumi-3","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="},
-{"name":"yumi-4","type":1,"url":"http://110.42.2.247:880//analysis//json//?uid=2284&my=cdefgijorsCPSTW138&format=json&url="},
-{"name":"yumi-5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url="},
-{"name":"ruifeng","type":1,"url":"https://cl.ruifeng.lol//api//jsonindex.php//?key=thbuzy9HNCDTSMlDKe&url="},
-{"name":"乌贼","type":1,"url":"https://wuzei.serv00.net/jx/hx.php?url="},
-{"name":"乌贼2","type":1,"url":"https://wuzei.serv00.net/jx/kk.php?url="},
-{"name":"乌贼3","type":1,"url":"https://wuzei.serv00.net/jx/bl.php?v="},
-{"name":"乌贼4","type":1,"url":"http://wuzei.serv00.net/jx/ww.php?v="},
-{"name":"m3u8","type":1,"url":"https://m3u8.co/?url="},
-{"name":"TLZ","type":1,"url":"http://106.53.99.43:84/lz.php?url="},
-{"name":"TFF","type":1,"url":"http://106.53.99.43:84/ff.php?url="},
-{"name":"T49","type":1,"url":"http://106.53.99.43:84/49.php?url="},
-{"name":"白熊","type":1,"url":"https://svip.cygc.xyz/api/?key=dVtcmaBX6lt954hcKJ&url="},
-{"name":"daina","type":1,"url":"https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url="},
-{"name":"chanchuan","type":1,"url":"https://wpjx.chanchuan.top/znjsonapi.php?url="},
-{"name":"654a","type":1,"url":"https://jiexi.xn--654a.cc/home/api?type=ys&uid=24479733&key=bcimnopqsCFGIKPR38&url="}
+{
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "刚刚走过",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "tg255免费",
+            "type": 1,
+            "url": "https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url="
+        },
+        {
+            "name": "风起兖州",
+            "type": 0,
+            "url": "http://jx.gbxy.net.cn/?url="
+        },
+        {
+            "name": "江湖1080",
+            "type": 1,
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+        },
+        {
+            "name": "keyu",
+            "type": 1,
+            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "荣兴",
+            "type": 1,
+            "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
+        }
 ],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "rules":[{"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},{"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},{"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
