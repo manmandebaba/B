@@ -69,7 +69,7 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"影探","url":"https://jm.dovxi.repl.co/api?url=http://www.lyyytv.cn/yt/yt.json        "},        
 {"name":"影探线路","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt        "},        
 {"name":"Liangmyjj","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/yinzuo2.json        "},        
-{"name":"moyuer","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/moyuer/momoyu/-/raw/main/ceshi.json        "},        
+{"name":"moyuer","url":"https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json        "},        
 {"name":"jingyu","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/hssdy/mmys/-/raw/main/jingyu.json        "},        
 {"name":"影迷","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt        "},        
 {"name":"影音天堂","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json        "},        
