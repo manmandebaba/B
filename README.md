@@ -106,7 +106,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"潇洒","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json        "},        
 {"name":"潇洒去广","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/PizazzGY/TVBox/main/api2.json        "},        
 {"name":"chengxue","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/chengxueli818913/maoTV/main/44.txt        "},        
-{"name":"ZHIXC","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json        "},        
 {"name":"gao0826","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json        "},        
 {"name":"香雅情","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json        "},        
 {"name":"蜂蜜","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json        "},         
