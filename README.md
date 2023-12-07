@@ -94,7 +94,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"Meow","url":"https://jm.dovxi.repl.co/api?url=https://anaer.github.io/Meow/meow.json        "},        
 {"name":"月光宝盒","url":"https://jm.dovxi.repl.co/api?url=https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json        "},        
 {"name":"ok","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/okcaptain/okjar/rm/ok.json        "},        
-{"name":"甜蜜","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/kebedd69/TVbox-interface/main/甜蜜.json        "},        
 {"name":"民间大佬","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/wnddwc/daiweichun/main/waynfifdwj.json        "},        
 {"name":"itv4k","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/pdscxz/TV/main/video/tv4k.json        "},        
 {"name":"熊猫不叫猫","url":"https://jm.dovxi.repl.co/api?url=https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjm.json        "},        
@@ -123,7 +122,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"4738","url":"https://jm.dovxi.repl.co/api?url=https://cn.kstore.space/download/4738/tvb/api.json        "},        
 {"name":"刘公子线路","url":"https://jm.dovxi.repl.co/api?url=http://gg.gg/liugongzi        "},        
 {"name":"刘公子2","url":"https://jm.dovxi.repl.co/api?url=http://lgz.hk3.345123.xyz/        "},        
-{"name":"网友","url":"https://jm.dovxi.repl.co/api?url=https://qu.ax/uanw.json        "},        
 {"name":"candymuj","url":"https://jm.dovxi.repl.co/api?url=https://tv.lan2wan.top/candymuj.json"}
 
 
