@@ -38,7 +38,7 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"欧歌","url":"https://jm.dovxi.repl.co/api?url=http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌        "},        
 {"name":"abc","url":"https://jm.dovxi.repl.co/api?url=https://agit.ai/n/b/raw/branch/a/b/c.json        "},        
 {"name":"荷城茶秀","url":"https://jm.dovxi.repl.co/api?url=http://rihou.vip:88/荷城茶秀        "},        
-{"name":"不良帅","url":"https://jm.dovxi.repl.co/api?url=https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8        "},        
+{"name":"不良帅","url":"https://notabug.org/qizhen15800/My9394/raw/master/不良帅.m3u8        "},        
 {"name":"春风","url":"https://jm.dovxi.repl.co/api?url=https://369936.xyz/web119        "},        
 {"name":"猎狼影视","url":"https://jm.dovxi.repl.co/api?url=http://lltv8.top        "},        
 {"name":"cally","url":"https://s2.pub/cally        "},        
