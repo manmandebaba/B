@@ -61,7 +61,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"爱TV吧","url":"https://jm.dovxi.repl.co/api?url=http://itvba.xyz/tv/        "},        
 {"name":"万达","url":"https://jm.dovxi.repl.co/api?url=http://sinopacifichk.com/box/56.txt        "},        
 {"name":"4k视界","url":"https://jm.dovxi.repl.co/api?url=https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json        "},        
-{"name":"154","url":"https://jm.dovxi.repl.co/api?url=http://154.12.90.7:82/uploads/itvbox/api.json        "},        
 {"name":"meowcf","url":"https://jm.dovxi.repl.co/api?url=https://freed.yuanhsing.cf/TVBox/meowcf.json        "},        
 {"name":"BigJ","url":"https://jm.dovxi.repl.co/api?url=https://soo.run/BigJ666        "},        
 {"name":"影探","url":"https://jm.dovxi.repl.co/api?url=http://www.lyyytv.cn/yt/yt.json        "},        
