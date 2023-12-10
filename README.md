@@ -71,7 +71,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"jingyu","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/hssdy/mmys/-/raw/main/jingyu.json        "},        
 {"name":"影迷","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt        "},        
 {"name":"影音天堂","url":"https://jm.dovxi.repl.co/api?url=https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json        "},        
-{"name":"青木","url":"https://jm.dovxi.repl.co/api?url=http://ftp6590005.host131.sanfengyun.cn/free/api.json        "},        
 {"name":"俊宇","url":"https://jm.dovxi.repl.co/api?url=http://home.jundie.top:81/top98.json        "},        
 {"name":"巧技","url":"http://cdn.qiaoji8.com/tvbox.json        "},        
 {"name":"免软资源","url":"https://jm.dovxi.repl.co/api?url=https://agit.ai/W-TV/XM/raw/branch/master/XM.json        "},        
