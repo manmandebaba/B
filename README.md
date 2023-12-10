@@ -48,7 +48,6 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"猎狼影视","url":"https://jm.dovxi.repl.co/api?url=http://lltv8.top        "},        
 {"name":"cally","url":"https://s2.pub/cally        "},        
 {"name":"猫技","url":"https://jm.dovxi.repl.co/api?url=https://m.n13.club/        "},               
-{"name":"潇洒线路","url":"https://jm.dovxi.repl.co/api?url=https://download.kstore.space/download/2863/01.txt        "},        
 {"name":"火影接口","url":"https://jm.dovxi.repl.co/api?url=http://jar.lingutv.cn/tvbox/yw/yw.json        "},        
 {"name":"壹梦影视","url": "http://qrh.yimkj.cn/ym/壹梦.json        "},        
 {"name":"道长js","url":"https://jm.dovxi.repl.co/api?url=https://pastebin.com/raw/5NHaxyGR        "},        
