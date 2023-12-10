@@ -7,8 +7,9 @@ gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/co
 github://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@github.com/manmandebaba/A/main/js/config_open.json 
 本接口仅支持非凡：www.ffzy.tv，量子：lzizy.net，暴风：bfzy.tv http://118.25.184.129:9668/?url=
 本接口仅支持非凡：www.ffzy.tv，量子：lzizy.net， https://tvmvip.com/lz2.php?url=
-本接口仅支持非凡：www.ffzy.tv，量子：lzizy.net， http://jx.84jia.com/m3u8ts.php?url=
-Github加速服务 https://raw.gitmirror.com/manmandebaba/B/main/S
+本接口仅支持非凡：www.ffzy.tv，量子：lzizy.net， http://jx.84jia.com/m3u8ts.php?url=       
+Github加速服务       
+https://raw.gitmirror.com/manmandebaba/B/main/S             
 https://raw.sock.cf/manmandebaba/B/main/S
 https://gh.cyao.tk/https://raw.githubusercontent.com/manmandebaba/B/main/S
 https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/S
