@@ -30,6 +30,7 @@ https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
 {"name":"巴不巴拉","url":"https://jm.dovxi.repl.co/api?url=https://bjson.cf/balabala        "},        
 {"name":"tvboxx","url":"https://jm.dovxi.repl.co/api?url=http://www.tvboxx.com.cn/tvbox/tv.json        "},        
 {"name":"锦哥哥","url":"https://jm.dovxi.repl.co/api?url=http://jin.锦哥哥.love        "},        
+{"name":"小盒酷玩","url":"https://jm.dovxi.repl.co/api?url=http://小盒酷玩.fun:66/🈲止贩卖      "},       
 {"name":"开心","url":"https://jm.dovxi.repl.co/api?url=https://tvbox.meitufu.com/TVBox/tv.json        "},        
 {"name":"菜妮丝","url":"https://jm.dovxi.repl.co/api?url=https://tvbox.cainisi.cf        "},        
 {"name":"玉玉软件","url":"https://jm.dovxi.repl.co/api?url=http://微信公众号玉玉软件.xyz/xc.json        "},        
