@@ -32,17 +32,12 @@ CCTV1,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
 CCTV1,http://v.ran-ran.top/zb/migu.php?id=cctv1
 CCTV1,http://v.ran-ran.top/zb/migu.php?id=cctv1b
 CCTV2,http://v.ran-ran.top/zb/migu.php?id=cctv2
-CCTV2,http://218.15.229.90:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://v.ran-ran.top/zb/migu.php?id=cctv3
-CCTV3,http://218.15.229.90:9901/tsfile/live/0003_1.m3u8
 CCTV4,http://v.ran-ran.top/zb/migu.php?id=cctv4a
-CCTV4,http://218.15.229.90:9901/tsfile/live/0004_1.m3u8
 CCTV5,http://v.ran-ran.top/zb/migu.php?id=cctv5
-CCTV5,http://218.15.229.90:9901/tsfile/live/0005_1.m3u8
 CCTV5+,http://v.ran-ran.top/zb/migu.php?id=cctv5p
 CCTV5+,https://p.ggiptv.com/v/ysp.m3u8?token=VrdagFDc9Zjt1QOS7iG35BiW&id=cctv5p
 CCTV6,http://v.ran-ran.top/zb/migu.php?id=cctv6
-CCTV6,http://218.15.229.90:9901/tsfile/live/0006_1.m3u8
 CCTV7,https://p.ggiptv.com/v/ysp.m3u8?token=AYGVKDFhgvRTEF%2FX%2F%2F1im7Qs&id=cctv7
 CCTV7,https://p.ggiptv.com/v/ysp.m3u8?token=CYyTfmEz1fFTEF%2FX%2F%2F1imLkv&id=cctv7
 CCTV8,http://v.ran-ran.top/zb/migu.php?id=cctv8
