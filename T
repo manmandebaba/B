@@ -46,38 +46,11 @@
 ],
 
 "zhujiexi":[
-{"name":"哔哩","url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
-{"name":"莫桑","url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
-{"name":"白熊","url":"https://svip.cygc.xyz/api/?key=dVtcmaBX6lt954hcKJ&url="},
-{"name":"土豆","url":"http://198.16.32.195/json/?url="},
-{"name":"测试","url":"http://119.91.123.253:1234/Api/cs.php?url="},
-{"name":"芒果","url":"http://mi.sxdh.org/mgtv/qq.php?url="},
-
-{"name":"YUMI2","url":"https://jxjson.cf/json.php?url="}
+{"name":"酷云77","url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="}
 ],
 
 "beiyongjiexi": [
-{"name":"三七","url":"https://jx.777jiexi.com/player/?url="},
-{"name":"全看","url":"https://jx.quankan.app/?url="},
-{"name":"战狼","url":"https://jx.zhanlangbu.com/?url="},
-{"name":"虾米","url":"https://jx.xmflv.com/?url="},
-{"name":"觅友","url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"杰森","url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"博子","url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"阳途","url":"https://jx.yangtu.top/?url="},
-{"name":"皮皮","url":"https://jx.ppjbk.cn/?url="},
-{"name":"仨伍","url":"https://jiexi.555jiexi.net:555/player/?url="},
-{"name":"大虾","url":"https://dm.xmflv.com:4433/?url="},
-{"name":"大米","url":"https://dmjx.m3u8.tv/?url="},
-{"name":"80哥","url":"https://www.8090g.cn/?url="},
-{"name":"90哥","url":"https://www.8090g.cn/jiexi/?url="},
-{"name":"普雷","url":"https://www.playm3u8.cn/jiexi.php?url="},
-{"name":"刺客","url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"盘古","url":"https://www.pangujiexi.com/jiexi/?url="},
-{"name":"夜幕","url":"https://www.yemu.xyz/?url="},
-{"name":"饭粒","url":"http://91fanli.top/m3u8/?url="},
-{"name":"无盘","url":"http://api.wpsseo.cn/?v="},
-{"name":"思古","url":"https://siguyy.cc/player/analysis.php?v="}
+{"name":"1-8k","url":"http://mz_llq.8kvod.com/player/?url="}
 ],
 "dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
