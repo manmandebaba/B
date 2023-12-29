@@ -29,8 +29,32 @@
 "zhuyejiekou": [
 {"name":"电影","url":"http://dytt996.com/api.php/app/"},
 {"name":"爱迪","url":"https://api123.adys.app/xgapp.php/v3/"},
+{"name":"555（APP）","url":"https://www.xawqxh.net/api.php/app/"},
+{"name":"七七（APP）","url":"http://qqysk.top/mogai_api.php/v1.vod"},
+{"name":"零刻（APP）","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
+{"name":"大米星球（APP）","url":"https://dmdy6.vip/api.php/app/"},
+{"name":"路人甲（APP）","url":"http://dytt996.com//api.php/app/"}, 
+{"name":"少泽影客（APP）","url":"https://yk.shaozeyy.com/api.php/app/"}, 
+{"name":"TV酷（APP）","url":"https://www.tvkuys.xyz/api.php/app/"},
+{"name":"如意（APP）","url":"http://cms.maoyingshi.cc/api.php/app/"},
+{"name":"UM（APP）","url":"https://www.umkan.cc/mogai_api.php/v1.vod"},
+{"name":"曲奇（APP）","url":"https://1234567.weixiaolove.cn/api.php/app/"}, 
+{"name":"聚焦（APP）","url":"https://www.mjlnl.cn/api.php/v1.vod"},
+{"name":"宝片（APP）","url":"https://zpsps.com/api.php/app/"},  
+{"name":"北极狐（APP）","url":"https://www.kuin.one/api.php/app/"},
+{"name":"69美剧（APP）","url":"https://www.69mj.com/xgapp.php/v1/"}, 
+{"name":"无心（APP）","url":"https://www.57movie.cn/mogai_api.php/v1.vod"}, 
+{"name":" 奈飞影视（APP）","url":"https://www.netfly.tv/api.php/app/"}, 
+{"name":"4k鸭奈飞（APP）","url":"https://yanaifei.tv/api.php/app/"},
+{"name":"奈飞狗（APP）","url":"https://netflixdog.club/api.php/app/"},
+{"name":"看剧吧（APP）","url":"http://app.ishen520.com/api.php/v1.vod"}, 
+{"name":"无限影视网（APP）","url":"https://www.wxtv.net/api.php/app/"}, 
+{"name":"迷你库（APP）","url":"http://www.miniku.cc/xgapp.php/v1/"},
+{"name":"爱城（APP）","url":"https://90hd.top/api.php/v1.vod"},
+{"name":"小彬（APP）","url":"http://k.337317477.cn//api.php/app/"}, 
+{"name":"落攻阁（APP）","url":"https://www.lggys.com/api.php/app/"},
+{"name":"爱迪（APP）","url":"https://api123.adys.app/xgapp.php/v2/"}
 
-{"name":"无","url":"https://ys.md214.cn/api.php/app/"}
 ],
 
 "caijizhan": [
