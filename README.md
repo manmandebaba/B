@@ -3,9 +3,9 @@
 菜妮丝主页 https://tvbox.cainisi.cf/mao.html 菜妮丝解密 https://tvbox.cainisi.cf/mao.php?url=
 配置解析 https://jm.dovxi.repl.co/ 配置解析 https://jm.dovxi.repl.co/api?url=
 黎哥主页 https://www.lige.fit/ua shixiong解密 http://shixiong.alwaysdata.net/
-多多解密 https://duo.serv00.net/crack.html 饭太硬解密 http://xn--sss604efuw.top/jm/
-gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json
-github://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@github.com/manmandebaba/A/main/js/config_open.json 
+多多解密 https://duo.serv00.net/crack.html 饭太硬解密 http://xn--sss604efuw.top/jm/     
+gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json     
+github://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@github.com/manmandebaba/A/main/js/config_open.json     
 本接口仅支持非凡，量子，暴风：bfzy.tv http://118.25.184.129:9668/?url=       http://qgg.lingutv.cn/?url=       
 本接口仅支持非凡，量子， https://tvmvip.com/lz2.php?url=     http://jx.84jia.com/m3u8ts.php?url=
 
