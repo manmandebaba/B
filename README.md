@@ -15,7 +15,7 @@ http://10010.coms.ee/shouji.json
 熊猫不叫猫单仓     https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json           
 奇奇单仓      https://cn.kstore.space/download/2904/236.txt      
 运输车仓      https://weixine.net/api.json       
-嘉月贰拾柒仓       https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json
+嘉月贰拾柒仓       https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json        
 蚂蚁     https://api.cainisi.cf/tvbox/?url=https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt      
 蚂蚁2    https://api.cainisi.cf/tvbox/?url=https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt     
 蚂蚁3    https://api.cainisi.cf/tvbox/?url=https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt     
@@ -27,8 +27,8 @@ http://10010.coms.ee/shouji.json
 
 
 {"urls": [
-{"name":"行人1","url":"clan://localhost/A-main/Q.txt"},
-{"name":"行人2","url":"https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/S                  "},                 
+{"name":"行人1","url":"clan://localhost/A-main/Q.txt"},           
+{"name":"行人2","url":"https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/S                  "},                    
 {"name":"小米","url":"https://tvbox.cainisi.cf/mao.php?url=http://xhww.fun/小米/DEMO.json                  "},                 
 {"name":"肥猫","url":"https://tvbox.cainisi.cf/mao.php?url=https://肥猫.live                  "},                 
 {"name":"肥猫2","url":"https://tvbox.cainisi.cf/mao.php?url=http://我不是.肥猫.live/                  "},                 
@@ -37,7 +37,7 @@ http://10010.coms.ee/shouji.json
 {"name":"菜妮丝","url":"https://tvbox.cainisi.cf/mao.php?url=https://tvbox.cainisi.cf                  "},                 
 {"name":"996影视","url":"https://tvbox.cainisi.cf/mao.php?url=https://123.155123.xyz/996.json                  "},                 
 {"name":"影视资源站","url":"https://tvbox.cainisi.cf/mao.php?url=http://bp.tvbox.cam                  "},                 
-{"name":"影视资源站备","url":"https://tvbox.cainisi.cf/mao.php?url=http://xb.tvbox.cam                  "},                 ,
+{"name":"影视资源站备","url":"https://tvbox.cainisi.cf/mao.php?url=http://xb.tvbox.cam                  "},                 
 {"name":"小胡","url":"https://tvbox.cainisi.cf/mao.php?url=http://xiaohu.xzam.cn/xiaohu                 "},                 
 {"name":"4738","url":"https://cn.kstore.space/download/4738/tvb/api.json                  "},                 
 {"name":"运输车","url":"https://tvbox.cainisi.cf/mao.php?url=https://weixine.net/ysc.json                  "},                 
