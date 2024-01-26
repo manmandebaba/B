@@ -43,7 +43,7 @@ http://10010.coms.ee/shouji.json
 {"name":"运输车","url":"https://tvbox.cainisi.cf/mao.php?url=https://weixine.net/ysc.json                  "},                 
 {"name":"运输车svip","url":"https://tvbox.cainisi.cf/mao.php?url=http://svip.weixine.net:88/uploads/itvbox/svip.json                  "},                 
 {"name":"吾爱","url":"https://tvbox.cainisi.cf/mao.php?url=http://52bsj.vip:98/wuai                  "},                 
-{"name":"欧歌","url":"https://tvbox.cainisi.cf/mao.php?url=http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌                  "},                 
+{"name":"欧歌","url":"https://tvbox.cainisi.cf/mao.php?url=http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌                  "},                 
 {"name":"荷城茶秀","url":"https://tvbox.cainisi.cf/mao.php?url=http://rihou.vip:88/荷城茶秀                  "},                 
 {"name":"不良帅","url":"https://tvbox.cainisi.cf/mao.php?url=https://notabug.org/qizhen15800/My9394/raw/master/不良帅.m3u8                  "},                 
 {"name":"道长js","url":"https://tvbox.cainisi.cf/mao.php?url=https://pastebin.com/raw/5NHaxyGR                  "},                 
