@@ -2,6 +2,12 @@
     "spider": "./XBPQ.jar",
     "lives": [],
     "sites": [
+{"key":"q腾","name":"腾讯┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.js","ext":"./drpy/js/qq腾讯.js"},
+{"key":"3源","name":"360┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.js","ext":"./drpy/js/360.js"},
+{"key":"无果","name":"芒果┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.js","ext":"./drpy/js/百忙无果.js"},
+{"key":"奇珍","name":"爱奇艺┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.jss","ext":"./drpy/js/奇珍异兽.js"},
+{"key":"菜狗","name":"搜狗┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.js","ext":"./drpy/js/菜狗.js"},
+{"key":"很酷","name":"优酷┃JS","type":3,"playerType":2,"api":"./drpy/lib/api.js","ext":"./drpy/js/优酷.js"},
 {   "key":"csp_XBPQ_zhengbnongmys",
     "name":"🍹农民影视",
     "type":3,
