@@ -9,6 +9,40 @@
 shixiong解密 http://shixiong.alwaysdata.net/            
 shixiong解密 https://jm.n13.club/            
 gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json    
+
+﻿猫头猫 (maotoumao)  https://gitee.com/maotoumao
+CatVodTVOfficial/TVBoxOSC  https://github.com/CatVodTVOfficial
+FongMi影视   https://github.com/FongMi
+okcaptain影视  https://github.com/okcaptain/TV
+CatVodOpen猫影视  https://github.com/catvod/CatVodOpen
+o0HalfLife0o/takagen99  https://github.com/o0HalfLife0o/TVBoxOSC/releases
+TVBox手机版  https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile
+Hiram-Wong/ZyPlayer  https://github.com/Hiram-Wong
+magicblack苹果cms   https://github.com/magicblack
+
+gaotianliuyun   https://github.com/gaotianliuyun/
+道长仓hjdhnx   https://github.com/hjdhnx
+lystv   https://github.com/lystv
+xiaohucode (dapaozhang)  https://github.com/xiaohucode
+CandyMuj仓  https://github.com/CandyMuj/ResourceInterface
+PizazzGY (潇洒)  https://github.com/PizazzGY
+业余打发仓   https://github.com/yydfys
+TVBOX/一木源  https://github.com/xianyuyimu/TVBOX-
+zalman2022  https://github.com/zalman2022/
+yw88075   https://github.com/yw88075
+zhixc  https://github.com/zhixc/
+xmbjm  https://github.com/xmbjm
+jinenge/TVBox(进恩哥版)  https://github.com/jinenge/tvbox
+ZTHA000   https://github.com/ZTHA000
+XiaoYiChaHang/tvbox  https://github.com/XiaoYiChaHang
+tv-player一影视  https://github.com/tv-player
+anaer/Meow   https://github.com/anaer
+好软分享  https://github.com/yoyodadada/haoruanfenxiang
+解锁网易云音乐  https://github.com/ndroi/easy163
+molun/MolunSmartHomeTV  https://github.com/molun/MolunSmartHomeTV
+lizongying/my-tv   https://github.com/lizongying/my-tv
+shichuanenhui/TvBox  https://github.com/shichuanenhui/TvBox
+cyao2q   https://github.com/cyao2q/files?tab=readme-ov-fil
             
 星辰  http://8.210.232.168/dc1.json     http://8.210.232.168/dc2.json       
 壹梦多仓     http://qrh.yimkj.cn/壹梦多仓.json        
