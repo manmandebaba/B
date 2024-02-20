@@ -1,16 +1,16 @@
-精简集合，最爱解析，嫖的大佬，小白一个。。。。。。你可以解，但是不能全解。。。。。。。
-菜妮丝主页 https://tvbox.cainisi.cf/mao.html 菜妮丝解密 https://tvbox.cainisi.cf/mao.php?url=                       
-黎哥主页   https://www.lige.fit/  黎哥解密     https://www.lige.fit/ua      
-多多主页   https://yydsys.top/    多多解密     https://duo.serv00.net/crack.html   
-饭太硬主页 http://饭太硬.top/     饭太硬解密   http://饭太硬.top/jm/             
-猎狼主页   https://yyds.lltv8.cn/index.html    猎狼解密     https://yyds.lltv8.cn/jm/   
-欧歌主页   http://nxog.top/   欧歌解密 http://nxog.top/jm/    
-锦哥哥主页 http://锦哥哥.love/    
-shixiong解密 http://shixiong.alwaysdata.net/            
-shixiong解密 https://jm.n13.club/            
-gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json    
+精简集合，最爱解析，嫖的大佬，小白一个。。。。。。你可以解，但是不能全解。。。。。。。        
+菜妮丝主页 https://tvbox.cainisi.cf/mao.html 菜妮丝解密 https://tvbox.cainisi.cf/mao.php?url=
+黎哥主页 https://www.lige.fit/ 黎哥解密 https://www.lige.fit/ua
+多多主页 https://yydsys.top/ 多多解密 https://duo.serv00.net/crack.html
+饭太硬主页 http://饭太硬.top/ 饭太硬解密 http://饭太硬.top/jm/
+猎狼主页 https://yyds.lltv8.cn/index.html 猎狼解密 https://yyds.lltv8.cn/jm/
+欧歌主页 http://nxog.top/ 欧歌解密 http://nxog.top/jm/
+锦哥哥主页 http://锦哥哥.love/
+shixiong解密 http://shixiong.alwaysdata.net/
+超级商店解密 https://jm.n13.club/
+gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json
 
-﻿猫头猫 (maotoumao)  https://gitee.com/maotoumao
+猫头猫 (maotoumao)  https://gitee.com/maotoumao
 CatVodTVOfficial/TVBoxOSC  https://github.com/CatVodTVOfficial
 FongMi影视   https://github.com/FongMi
 okcaptain影视  https://github.com/okcaptain/TV
@@ -43,62 +43,61 @@ molun/MolunSmartHomeTV  https://github.com/molun/MolunSmartHomeTV
 lizongying/my-tv   https://github.com/lizongying/my-tv
 shichuanenhui/TvBox  https://github.com/shichuanenhui/TvBox
 cyao2q   https://github.com/cyao2q/files?tab=readme-ov-fil
-            
-星辰  http://8.210.232.168/dc1.json     http://8.210.232.168/dc2.json       
-壹梦多仓     http://qrh.yimkj.cn/壹梦多仓.json        
-天微影视库     http://tvkj.top/DC.txt            
-业余仓库
-    https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocangjk.json        
-熊猫不叫猫单仓     https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json           
-奇奇单仓      https://cn.kstore.space/download/2904/236.txt      
-运输车仓      https://weixine.net/api.json       
-嘉月贰拾柒仓       https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json        
-蚂蚁     https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt      
-蚂蚁2    https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt     
-蚂蚁3    https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt     
-蚂蚁4    https://pan.shangui.cc/f/vYYnHk/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt             
-蚂蚁5    https://agit.ai/hu/hcr/raw/branch/master/99668.txt         
-涤灵苑仓      https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt           
-挺好┃观影仓库    https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json      
-挺好666仓库      https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json       
-金鹰影视多仓库 http://530.my3v.work/99668.json  
-沐大神呀多仓库 https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json  
-阿松万事屋多仓 https://xs.magiclee.cn/jk/阿松万事屋多仓.txt  
-星星影视多仓库 http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt  
-青木影视多仓库 http://530.my3v.work/qm.json  
-小白影视多仓库 http://39.101.135.137:8686/  
-恒星影视多仓库 http://530.my3v.work/hxck.json  
-心动影视多仓库 http://530.my3v.work/xdck.json  
-水大侠影视仓库 https://gitee.com/GK_6_0/json/raw/master/json.txt  
-追剧吧影视多仓 https://jihulab.com/jw2/jyf/-/raw/main/jihu.json  
-蓝色大佬影视库 https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json  
-日后魔改多仓库 https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json  
-砂锅影视多仓库 https://atomgit.com/66dashun/xiazheng/raw/master/d.json   
-   
-本接口仅支持非凡，量子，暴风：bfzy.tv http://118.25.184.129:9668/?url=       http://qgg.lingutv.cn/?url=          
-本接口仅支持非凡，量子， https://tvmvip.com/lz2.php?url=     http://jx.84jia.com/m3u8ts.php?url=      http://api.suxun.site/api/delad?url=        
 
-Github加速服务   
-https://raw.githubusercontent.com/manmandebaba/B/main/S   
-https://raw.gitmirror.com/manmandebaba/B/main/S      
-https://raw.sock.cf/manmandebaba/B/main/S   
-美国    
-https://raw.fgit.cf/manmandebaba/B/main/S   
-日本    
-https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/S    
-https://jm.dovxi.repl.co/api?url=https://fastly.jsdelivr.net/gh/manmandebaba/B@main/S    
-韩国     
-https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S 
-https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S       
-其他      
-https://jm.dovxi.repl.co/api?url=https://gcore.jsdelivr.net/gh/manmandebaba/B@main/S           
-https://jsdelivr.b-cdn.net/gh/manmandebaba/B@main/S        
-https://github.moeyy.xyz/https://raw.githubusercontent.com/manmandebaba/B/main/S          
-https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/manmandebaba/B/main/S       
-https://mirror.ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/S         
-https://ghps.cc/https://raw.githubusercontent.com/manmandebaba/B/main/S     
-https://gh.ddlc.top/https://raw.githubusercontent.com/manmandebaba/B/main/S         
-https://gh.cyao.tk/https://raw.githubusercontent.com/manmandebaba/B/main/S        
-https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/S     
-https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S       
-https://999740.xyz/raw.githubusercontent.com/manmandebaba/B/main/S 
+星辰 http://8.210.232.168/dc1.json http://8.210.232.168/dc2.json
+壹梦多仓 http://qrh.yimkj.cn/壹梦多仓.json
+天微影视库 http://tvkj.top/DC.txt
+业余仓库 https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocangjk.json
+熊猫不叫猫单仓 https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json
+奇奇单仓 https://cn.kstore.space/download/2904/236.txt
+运输车仓 https://weixine.net/api.json
+嘉月贰拾柒仓 https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json
+蚂蚁 https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt
+蚂蚁2 https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt
+蚂蚁3 https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt
+蚂蚁4 https://pan.shangui.cc/f/vYYnHk/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt
+蚂蚁5 https://agit.ai/hu/hcr/raw/branch/master/99668.txt
+涤灵苑仓 https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt
+挺好┃观影仓库 https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json
+挺好666仓库 https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json
+金鹰影视多仓库 http://530.my3v.work/99668.json
+沐大神呀多仓库 https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json
+阿松万事屋多仓 https://xs.magiclee.cn/jk/阿松万事屋多仓.txt
+星星影视多仓库 http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt
+青木影视多仓库 http://530.my3v.work/qm.json
+小白影视多仓库 http://39.101.135.137:8686/
+恒星影视多仓库 http://530.my3v.work/hxck.json
+心动影视多仓库 http://530.my3v.work/xdck.json
+水大侠影视仓库 https://gitee.com/GK_6_0/json/raw/master/json.txt
+追剧吧影视多仓 https://jihulab.com/jw2/jyf/-/raw/main/jihu.json
+蓝色大佬影视库 https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json
+日后魔改多仓库 https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json
+砂锅影视多仓库 https://atomgit.com/66dashun/xiazheng/raw/master/d.json
+祥子 http://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/001.json      
+
+本接口仅支持非凡，量子，暴风：bfzy.tv http://118.25.184.129:9668/?url= http://qgg.lingutv.cn/?url=
+本接口仅支持非凡，量子， https://tvmvip.com/lz2.php?url= http://jx.84jia.com/m3u8ts.php?url= http://api.suxun.site/api/delad?url=
+
+Github加速服务
+https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://raw.gitmirror.com/manmandebaba/B/main/S
+https://raw.sock.cf/manmandebaba/B/main/S
+美国
+https://raw.fgit.cf/manmandebaba/B/main/S
+日本
+https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://jm.dovxi.repl.co/api?url=https://fastly.jsdelivr.net/gh/manmandebaba/B@main/S
+韩国
+https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S
+其他
+https://jm.dovxi.repl.co/api?url=https://gcore.jsdelivr.net/gh/manmandebaba/B@main/S
+https://jsdelivr.b-cdn.net/gh/manmandebaba/B@main/S
+https://github.moeyy.xyz/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://mirror.ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/S
+https://ghps.cc/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://gh.ddlc.top/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://gh.cyao.tk/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/S
+https://999740.xyz/raw.githubusercontent.com/manmandebaba/B/main/S
