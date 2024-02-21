@@ -79,28 +79,13 @@ http://8.210.232.168/dc2.json
 本接口仅支持非凡，量子，暴风：bfzy.tv http://118.25.184.129:9668/?url= http://qgg.lingutv.cn/?url=            
 本接口仅支持非凡，量子， https://tvmvip.com/lz2.php?url= http://jx.84jia.com/m3u8ts.php?url= http://api.suxun.site/api/delad?url=            
 
-Github加速服务            
-https://raw.githubusercontent.com/manmandebaba/B/main/T            
+Github加速服务 https://raw.githubusercontent.com/manmandebaba/B/main/T            
+
 https://raw.gitmirror.com/manmandebaba/B/main/T            
-https://raw.sock.cf/manmandebaba/B/main/T            
-美国            
-https://raw.fgit.cf/manmandebaba/B/main/T            
-日本            
 https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-https://jm.dovxi.repl.co/api?url=https://fastly.jsdelivr.net/gh/manmandebaba/B@main/T            
-韩国            
-https://ghproxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/T             
-https://gh-proxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-其他            
-https://jm.dovxi.repl.co/api?url=https://gcore.jsdelivr.net/gh/manmandebaba/B@main/T            
-https://jsdelivr.b-cdn.net/gh/manmandebaba/B@main/T            
 https://github.moeyy.xyz/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://mirror.ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/T            
-https://ghps.cc/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-https://gh.ddlc.top/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-https://gh.cyao.tk/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-https://999740.xyz/raw.githubusercontent.com/manmandebaba/B/main/T            
 
