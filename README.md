@@ -10,46 +10,58 @@ shixiong解密 http://shixiong.alwaysdata.net/
 超级商店解密 https://jm.n13.club/            
 gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json            
 
-猫头猫 (maotoumao)  https://gitee.com/maotoumao            
-CatVodTVOfficial/TVBoxOSC  https://github.com/CatVodTVOfficial            
-FongMi影视   https://github.com/FongMi            
-okcaptain影视  https://github.com/okcaptain/TV            
-CatVodOpen猫影视  https://github.com/catvod/CatVodOpen            
-o0HalfLife0o/takagen99  https://github.com/o0HalfLife0o/TVBoxOSC/releases            
-TVBox手机版  https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile            
-Hiram-Wong/ZyPlayer  https://github.com/Hiram-Wong            
-magicblack苹果cms   https://github.com/magicblack            
+https://gitee.com/maotoumao        猫头猫 (maotoumao)      
+https://github.com/CatVodTVOfficial            CatVodTVOfficial/TVBoxOSC  
+https://github.com/FongMi            FongMi影视   
+https://github.com/okcaptain/TV            okcaptain影视  
+https://github.com/catvod/CatVodOpen            CatVodOpen猫影视  
+https://github.com/o0HalfLife0o/TVBoxOSC/releases            o0HalfLife0o/takagen99  
+https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile            TVBox白色手机版  
+https://github.com/Hiram-Wong            Hiram-Wong/ZyPlayer  
+https://github.com/magicblack            magicblack苹果cms   
+https://github.com/xiaohucode/yidaRule          xiaohucode/yidaRule  
+https://github.com/lizongying/my-tv            lizongying/我的电视
+https://github.com/tv-player            tv-player一影视已停
+https://github.com/ndroi/easy163       解锁网易云音乐  
+https://github.com/Eanya-Tonic      央视电视浏览器
+https://github.com/jinenge/tvbox            jinenge/TVBox(进恩哥版)  
 
-gaotianliuyun   https://github.com/gaotianliuyun/            
-道长仓hjdhnx   https://github.com/hjdhnx            
-lystv   https://github.com/lystv            
-xiaohucode (dapaozhang)  https://github.com/xiaohucode            
-CandyMuj仓  https://github.com/CandyMuj/ResourceInterface            
-PizazzGY (潇洒)  https://github.com/PizazzGY            
-业余打发仓   https://github.com/yydfys            
-TVBOX/一木源  https://github.com/xianyuyimu/TVBOX-            
-zalman2022  https://github.com/zalman2022/            
-yw88075   https://github.com/yw88075            
-zhixc  https://github.com/zhixc/            
-xmbjm  https://github.com/xmbjm            
-jinenge/TVBox(进恩哥版)  https://github.com/jinenge/tvbox            
-ZTHA000   https://github.com/ZTHA000            
-XiaoYiChaHang/tvbox  https://github.com/XiaoYiChaHang            
-tv-player一影视  https://github.com/tv-player            
-anaer/Meow   https://github.com/anaer            
-好软分享  https://github.com/yoyodadada/haoruanfenxiang            
-解锁网易云音乐  https://github.com/ndroi/easy163            
-molun/MolunSmartHomeTV  https://github.com/molun/MolunSmartHomeTV            
-lizongying/my-tv   https://github.com/lizongying/my-tv            
-shichuanenhui/TvBox  https://github.com/shichuanenhui/TvBox            
-cyao2q   https://github.com/cyao2q/files?tab=readme-ov-fil            
+https://github.com/ssili126/tv      自动获取酒店源 
+https://github.com/su147456888444/jiudianyuan
+https://github.com/gaotianliuyun/         高天流云    
+https://github.com/hjdhnx            道长仓hjdhnx   
+https://github.com/xyq254245/      香雅情 
+https://github.com/lystv            lystv   
+https://github.com/xiaohucode            xiaohucode (dapaozhang)  
+https://github.com/CandyMuj/ResourceInterface            CandyMuj仓  
+https://github.com/PizazzGY            PizazzGY (潇洒)  
+https://github.com/yydfys            业余打发仓   
+https://github.com/xianyuyimu/TVBOX-            TVBOX/一木源  
+https://github.com/zalman2022/            zalman2022  
+https://github.com/yw88075            
+https://github.com/zhixc/            
+https://github.com/xmbjm            熊猫不叫猫
+https://github.com/ZTHA000            
+https://github.com/XiaoYiChaHang            XiaoYiChaHang/tvbox  
+https://github.com/anaer            anaer/Meow   
+https://github.com/yoyodadada/haoruanfenxiang          好软分享    
+https://github.com/molun/MolunSmartHomeTV       molun/MolunSmartHomeTV  
+https://github.com/shichuanenhui/TvBox            shichuanenhui/TvBox  
+https://github.com/cyao2q/files?tab=readme-ov-fil            
+https://github.com/yutian88881
+https://github.com/us8888/BOX
+https://github.com/gggwang
+https://github.com/dxawi
+https://notabug.org/happybaihao/pan
+https://github.com/T00700
+https://github.com/alantang1977
+https://github.com/hanhan8127       
 
 星辰 http://8.210.232.168/dc1.json             
 http://8.210.232.168/dc2.json            
 壹梦多仓 http://qrh.yimkj.cn/壹梦多仓.json            
 天微影视库 http://tvkj.top/DC.txt            
 业余仓库 https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/duocangjk.json            
-熊猫不叫猫单仓 https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json            
 奇奇单仓 https://cn.kstore.space/download/2904/236.txt            
 运输车仓 https://weixine.net/api.json            
 嘉月贰拾柒仓 https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json            
@@ -59,7 +71,6 @@ http://8.210.232.168/dc2.json
 在线蚂蚁窝④ https://pan.shangui.cc/f/R8G3fz/蚂蚁窝4局.txt           
 在线蚂蚁窝⑤ https://pan.shangui.cc/f/lXeyIk/星河粉丝专属单仓.txt                     
 涤灵苑仓 https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt            
-挺好┃观影仓库 https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json            
 挺好666仓库 https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json            
 金鹰影视多仓库 http://530.my3v.work/99668.json            
 沐大神呀多仓库 https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json            
@@ -88,4 +99,5 @@ https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/manmandebaba/B/
 https://mirror.ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/T            
 https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/T            
+https://gh.xxooo.cf/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 
