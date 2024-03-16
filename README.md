@@ -9,7 +9,6 @@ Github加速服务 https://raw.githubusercontent.com/manmandebaba/B/main/T
 https://raw.gitmirror.com/manmandebaba/B/main/T            
 https://ghproxy.net/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://github.moeyy.xyz/https://raw.githubusercontent.com/manmandebaba/B/main/T            
-https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://mirror.ghproxy.com/raw.githubusercontent.com/manmandebaba/B/main/T            
 https://hub.gitmirror.com/https://raw.githubusercontent.com/manmandebaba/B/main/T            
 https://gh.con.sh/https://raw.githubusercontent.com/manmandebaba/B/main/T            
