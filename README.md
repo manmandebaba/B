@@ -7,7 +7,6 @@
 
 {"sourceName":"星辰","sourceUrl":"http://8.210.232.168/dc1.json"},
 {"sourceName":"星辰2","sourceUrl":"http://8.210.232.168/dc2.json"},
-{"sourceName":"金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
 
 {"sourceName":"gaotianliuyun仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
 {"sourceName":"优质","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"},
