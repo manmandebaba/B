@@ -1,3 +1,22 @@
+{
+"storeHouse": [
+{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"},
+{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"},
+{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"},
+{"sourceName":"💜多多预备仓🍭不做韭菜🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"},
+
+{"sourceName":"星辰","sourceUrl":"http://8.210.232.168/dc1.json"},
+{"sourceName":"星辰2","sourceUrl":"http://8.210.232.168/dc2.json"},
+{"sourceName":"金鹰","sourceUrl":"http://530.my3v.work/99668.json"},
+
+{"sourceName":"gaotianliuyun仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+{"sourceName":"优质","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"},
+{"sourceName":"CR","sourceUrl":"https://mirror.ghproxy.com/https://github.com/sf467/Tvbox1/raw/main/cr.json"},
+
+{"sourceName":"本地","sourceUrl":"clan://localhost/A-main/影视仓单仓.txt"}
+]}
+
+
 精简集合，最爱解析，嫖的大佬，小白一个。。。。。。你可以解，但是不能全解。。。。。。。                    
 
 菜妮丝主页   https://tv.菜妮丝.top            菜妮丝解密              
@@ -16,7 +35,7 @@ shixiong解密 http://shixiong.alwaysdata.net/
 神仙影视     https://www.sxtv.top/      
 冷牛哥       https://www.lengniuge.cf/              
 摸鱼4K       https://moyu.xiyan.life/              
-
+V哥          http://稳定接口.tvbox.中国             
 
 
 https://gitee.com/maotoumao                           猫头猫 (maotoumao)      
@@ -36,12 +55,13 @@ https://github.com/Eanya-Tonic                        央视电视浏览器
 https://github.com/jinenge/tvbox                      jinenge/TVBox(进恩哥版)  
 
 https://github.com/ssili126/tv                        自动获取酒店源 
+https://github.com/tianshipapa/cfipcaiji              从一个提供优选ip的网站进行优选cf ip采集          
 https://github.com/su147456888444/jiudianyuan
 https://github.com/gaotianliuyun/                     高天流云    
 https://github.com/hjdhnx                             道长仓hjdhnx   
 https://github.com/xyq254245/                         香雅情 
 https://github.com/lystv                              lystv   
-https://github.com/xiaohucode                         xiaohucode (dapaozhang)  
+https://github.com/xiaohucode                         xiaohucode (dapaozhang)  益达等
 https://github.com/CandyMuj/ResourceInterface         CandyMuj仓  
 https://github.com/PizazzGY                           PizazzGY (潇洒)  
 https://github.com/yydfys                             业余打发仓   
@@ -69,40 +89,15 @@ https://github.com/ouhaibo1980
 https://github.com/Meroser/IPTV
 https://github.com/huu3323/
 https://github.com/mlvjfchen/zby
+https://gitcode.net/js283311816/
+https://github.com/mcp2016/
 
-星辰 http://8.210.232.168/dc1.json             
-http://8.210.232.168/dc2.json            
-壹梦多仓 http://qrh.yimkj.cn/壹梦多仓.json            
-天微影视库 http://tvkj.top/DC.txt            
-业余仓库 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/duocangjk.json            
-奇奇单仓 https://cn.kstore.space/download/2904/236.txt            
-运输车仓 https://weixine.net/api.json            
-嘉月贰拾柒仓 https://jihulab.com/BeiYu1379/kw/-/raw/main/iayue.json            
-在线蚂蚁窝① https://pan.shangui.cc/f/KkLnH6/蚂蚁窝1局.txt           
-在线蚂蚁窝② https://pan.shangui.cc/f/1PJBtw/蚂蚁窝2局.txt           
-在线蚂蚁窝③ https://pan.shangui.cc/f/3PLqSv/蚂蚁窝3局.txt           
-在线蚂蚁窝④ https://pan.shangui.cc/f/R8G3fz/蚂蚁窝4局.txt           
-在线蚂蚁窝⑤ https://pan.shangui.cc/f/lXeyIk/星河粉丝专属单仓.txt                     
-涤灵苑仓 https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt            
-挺好666仓库 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json            
-金鹰影视多仓库 http://530.my3v.work/99668.json            
-沐大神呀多仓库 https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json            
-阿松万事屋多仓 https://xs.magiclee.cn/jk/阿松万事屋多仓.txt            
-星星影视多仓库 http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt            
-青木影视多仓库 http://530.my3v.work/qm.json            
-小白影视多仓库 http://39.101.135.137:8686/            
-恒星影视多仓库 http://530.my3v.work/hxck.json            
-心动影视多仓库 http://530.my3v.work/xdck.json            
-水大侠影视仓库 https://gitee.com/GK_6_0/json/raw/master/json.txt            
-追剧吧影视多仓 https://jihulab.com/jw2/jyf/-/raw/main/jihu.json            
-蓝色大佬影视库 https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json            
-日后魔改多仓库 https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json            
-砂锅影视多仓库 https://atomgit.com/66dashun/xiazheng/raw/master/d.json            
-祥子 http://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/001.json                  
 
 本接口仅支持非凡，量子，暴风：bfzy.tv http://118.25.184.129:9668/?url= http://qgg.lingutv.cn/?url=            
 本接口仅支持非凡，量子， https://tvmvip.com/lz2.php?url= http://jx.84jia.com/m3u8ts.php?url= http://api.suxun.site/api/delad?url=            
 gitee://7616b1b00a8d64605bbc5036c4f20c55@gitee.com/manmandebaba/cat/master/js/config_open.json            
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk
 
 Github加速服务 https://raw.githubusercontent.com/manmandebaba/B/main/T            
 
