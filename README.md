@@ -1,5 +1,6 @@
-http://530.my3v.work/f.json
-https://d.kstore.space/download/4708/sgdc.json
+http://530.my3v.work/f.json            
+https://d.kstore.space/download/4708/sgdc.json            
+https://agit.ai/qq275666857/tvbox/raw/branch/master/duoxianlu.json            
 
 Github加速服务 https://raw.githubusercontent.com/manmandebaba/B/main/T            
 
