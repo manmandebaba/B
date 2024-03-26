@@ -3,6 +3,10 @@ https://d.kstore.space/download/4708/sgdc.json
 https://cdn.magiclee.cn/jk/%E5%A4%9A%E4%BB%93%E9%9B%86%E5%90%88/duo.json            
 https://agit.ai/qq275666857/tvbox/raw/branch/master/duoxianlu.json            
 
+http://xn--dkw0c.y.nxog.top     http://xn--dkw0c.u.nxog.top    http://xn--dkw0c.zb.xn--dkw.xn--6qq986b3xl
+
+
+
 Github加速服务 https://raw.githubusercontent.com/manmandebaba/B/main/T            
 
 https://raw.gitmirror.com/manmandebaba/B/main/T            
